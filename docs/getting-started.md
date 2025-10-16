@@ -17,7 +17,7 @@ cd HR-Admin-Hamere-Birhan-Full-Stack
 
 Step 2: Backend Setup
 bash
-cd backend
+cd backend/
 
 # Install dependencies
 npm install
